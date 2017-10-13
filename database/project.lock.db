@@ -1,0 +1,6 @@
+#FileLock
+#Fri Oct 13 10:44:37 COT 2017
+hostName=ARMANDO-ZARATE.ceiba.local
+id=15f1668a51b0863a099ed1fd3b9d6ca3dadbe1cb1fe
+method=file
+server=192.168.1.255\:53708
